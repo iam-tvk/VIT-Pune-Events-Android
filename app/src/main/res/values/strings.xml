@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Login</string>
+
+
+    <string-array name="title">
+        <item>Title One</item>
+        <item>Title Two</item>
+        <item>Title Three</item>
+        <item>Title Four</item>
+        <item>Title Five</item>
+        <item>Title Six</item>
+        <item>Title Seven</item>
+    </string-array>
+    <string-array name="sub_title">
+        <item>SubTitle One</item>
+        <item>SubTitle Two</item>
+        <item>SubTitle Three</item>
+        <item>SubTitle Four</item>
+        <item>SubTitle Five</item>
+        <item>SubTitle Six</item>
+        <item>SubTitle Seven</item>
+
+
+    </string-array>
+
+
+</resources>
